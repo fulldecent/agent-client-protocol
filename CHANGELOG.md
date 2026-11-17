@@ -2,6 +2,18 @@
 
 ## [Unreleased]
 
+## [1.19.0](https://github.com/agentclientprotocol/agent-client-protocol/compare/v1.18.0...v1.19.0) - 2026-11-17
+
+### Added
+
+- *(unstable-v2)* add idempotencyKey to session/prompt ([#2847](https://github.com/agentclientprotocol/agent-client-protocol/pull/2847))
+- *(schema)* add method-aware payload dispatch ([#2846](https://github.com/agentclientprotocol/agent-client-protocol/pull/2846))
+- *(unstable)* add session cursors and cursorId on session/fork ([#2843](https://github.com/agentclientprotocol/agent-client-protocol/pull/2843))
+
+### Other
+
+- *(unstable)* add subagents pages for v2 and the v1 draft ([#2849](https://github.com/agentclientprotocol/agent-client-protocol/pull/2849))
+
 ## [1.18.0](https://github.com/agentclientprotocol/agent-client-protocol/compare/v1.17.0...v1.18.0) - 2026-11-14
 
 ### Added
